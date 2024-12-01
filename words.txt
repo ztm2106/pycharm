@@ -1,0 +1,7 @@
+nickel
+house
+dog
+cat
+bike
+ball
+ballon
